@@ -1,6 +1,6 @@
-owner = PRU
-controller = PRU
-add_core = PRU
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = RHI
 add_core = GER
 trade_goods = coal
@@ -21,16 +21,4 @@ state_building = {
     building = machine_parts_factory
     upgrade = yes
 }
-1861.1.1 = {
-    state_building = {
-        level = 1
-        building = machine_parts_factory
-        upgrade = yes
-    }
-    state_building = {
-        level = 1
-        building = steel_factory
-        upgrade = yes
-    }
-}
-1861.1.1 = { railroad = 3 }
+

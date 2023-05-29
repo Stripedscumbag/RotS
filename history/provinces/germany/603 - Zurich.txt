@@ -1,5 +1,6 @@
-owner = SWI
-controller = SWI
+owner = SWA
+controller = SWA
+add_core = SWA
 add_core = SWI
 trade_goods = iron
 life_rating = 34
@@ -23,12 +24,4 @@ state_building = {
     level = 1
     building = liquor_distillery
     upgrade = yes
-}
-1861.1.1 = { railroad = 1 }
-1861.1.1 = {
-    state_building = {
-        level = 1
-        building = luxury_clothes_factory
-        upgrade = yes
-    }
 }

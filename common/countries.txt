@@ -3,6 +3,17 @@
 # Special countries...
 REB     =     "countries/rebels.txt"
 
+##RotS
+SWA = "countries/Swabia.txt"
+FRC = "countries/Franconia.txt"
+THR = "countries/Thuringia.txt"
+LOT = "countries/Lotharingia.txt"
+BRB = "countries/Brandenburg.txt"
+DIT = "countries/Dithmarschen.txt"
+MAI = "countries/Mainz.txt"
+TRJ	= "countries/Transjurania.txt"
+PRO = "countries/Provence.txt"
+
 ##HPM
 PNK        ="countries/Pontianak.txt"
 GHN        ="countries/Ghana.txt"
